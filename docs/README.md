@@ -4,10 +4,10 @@
 
 ### 로또 구입 금액 평가
 
-- [ ] 사용자로부터 금액을 입력 받음<br>
-  - [ ] 숫자가 아닌 경우 throw Error
-  - [ ] 음수인 경우 throw Error
-  - [ ] 1000으로 나누어떨어지지 않는 경우 throw Error
+- ✅ 사용자로부터 금액을 입력 받음<br>
+  - ✅ 숫자가 아닌 경우 throw Error
+  - ✅ 음수인 경우 throw Error
+  - ✅ 1000으로 나누어떨어지지 않는 경우 throw Error
 
 ### 로또 발행
 
